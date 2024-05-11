@@ -1,8 +1,6 @@
 # Customer APP
 
-
----
-<div style="display: flex; flex-direction: column; align-items: center; align-content: center; justify-content: center; gap: 0.25rem;">
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-070826)](https://opensource.org/licenses/MIT)
 [![Typescript Version](https://img.shields.io/badge/Typescript-5%2B-070826)](https://www.typescriptlang.org/)
@@ -19,39 +17,36 @@
 
 </div>
 
----
-
-
 ## Sobre
 Aplicação de gestão de clientes permite realizar várias operações relacionadas aos clientes. Aqui estão algumas das funcionalidades principais: **Cadastro de Clientes**, **Listagem de CLientes** e **Busca de Clientes**.
 
 ![Page](Image/page.png)
 
----
-
 ## Execução
 
 <h4>1. Clonagem</h4>
+
 ```bash
 git clone https://github.com/marllonmendez/stories.git
 ```
 
 <h4>2. Instalação das dependências</h4>
+
 ```bash
 npm install
 ```
 
 <h4>3. Build do projeto</h4>
+
 ```bash
 npm run build
 ```
 
 <h4>4. Execução local</h4>
+
 ```bash
 npm run dev
 ```
-
----
 
 ## Licença
 
